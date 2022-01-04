@@ -60449,7 +60449,7 @@ A.Oq.prototype={
 G(a,b){var s=null,r=t.p
 return A.dt(A.b([new A.Om(s),A.nO(A.vI(A.dt(A.b([new A.nd("Residence:","Malout,Punjab",s),new A.nd("Age:","21",s),new A.nd("Mobile Number:","9914025983",s),A.aap(2),A.eJ(A.b([new A.cU(B.ih,A.bJ("Skills",s,s,A.ab(b).N.x,s,s),s)],r),B.a8,B.E,B.v),new A.G7(s),A.eK(s,20,s),new A.Bb(s),A.aap(2),A.eK(s,10,s),A.a1o(A.eJ(A.b([A.bJ("Download CV",s,s,A.da(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.eK(s,s,10),A.Ug(B.f5,B.nO)],r),B.N,B.E,B.v),new A.a9y(),s)],r),B.N,B.E,B.v),new A.b3(20,20,20,20),B.aa),1)],r),B.N,B.E,B.v)}}
 A.a9y.prototype={
-$0(){A.mR("https://drive.google.com/file/d/1ad4m8s-CPlK045Rqbn1ltxajliLhMqa0/view?usp=sharing")},
+$0(){A.mR("https://drive.google.com/file/d/1xmQhvkYLUMESUFfs12s73zZjLABMTcL-/view?usp=sharing")},
 $S:0}
 A.Ds.prototype={
 G(a,b){var s=null,r=A.agE(B.Y),q=A.ab(b).N
